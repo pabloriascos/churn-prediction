@@ -1,0 +1,7 @@
+feature,churn_label,average
+tenure,No,37.56996521066873
+tenure,Yes,17.979133226324237
+MonthlyCharges,No,61.26512369540008
+MonthlyCharges,Yes,74.44133226324237
+TotalCharges,No,2555.344141003293
+TotalCharges,Yes,1531.7960941680042
